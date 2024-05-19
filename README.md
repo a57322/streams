@@ -18,7 +18,9 @@ You can do either a simple issue or even a pull request if you feel like it.
 # Acknowledgements
 I have to thank:
 - [pshanmu3](https://github.com/pshanmu3) for inspiring me to do this repo
-- [streamlink's developpers](https://github.com/streamlink) for helping me to implement some platforms. 
+- [streamlink's developpers](https://github.com/streamlink) for helping me to implement some platforms.
+- [azgaresncf](https://github.com/azgaresncf) is The Official Owner
+
 
 # Note
 You can watch all of the converted channels with this link:
