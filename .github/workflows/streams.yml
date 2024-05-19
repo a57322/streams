@@ -82,6 +82,7 @@ jobs:
             python3 twitch.py elnuevevivo > ../../streams/elnueve_Argentina.m3u8
             python3 twitch.py extacy_tv > ../../streams/extra_tv_cyprus.m3u8
             python3 twitch.py unboxholics > ../../streams/Uboxholics.m3u8
+            python3 twitch.py 247gaminglabgr > ../../streams/gaminglabgr.m3u8
       - name: git add
         run: |
           git add -A
